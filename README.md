@@ -4,7 +4,7 @@
 
 🌎 **Where I live:** I am a Colombian immigrant now residing in Canada.
 
-💻 **What I do:** I create engaging content for YouTube, Twitch, and TikTok within the realm of Geometry Dash.
+💻 **What I do:** I create engaging content for YouTube and Twitch
 
 🎯 **My Interests:** Programming, music, computers, video editing, and Linux.
 

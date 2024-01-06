@@ -2,6 +2,32 @@
 <h3 align="center">also known as TheoneKingboo</h3>
 <img align="center" alt="kingboo" src="https://cdn.discordapp.com/attachments/908482825358020608/1193296630523379853/BigNormalKingboo.png?ex=65ac3317&is=6599be17&hm=08e737230980e49323d0243bcfb325c15e660acadffbdc010e677f0146dd1531&">
 
+# Hi there! I'm Juan, known as theonekingboo 👋
+
+## About Me
+
+🌎 **Where I live:** I am a Colombian immigrant now residing in Canada.
+
+💻 **What I do:** I create engaging content for YouTube, Twitch, and TikTok within the realm of Geometry Dash.
+
+🎯 **My Interests:** Programming, music, computers, video editing, and Linux.
+
+🗣️ **Spoken Languages:** English, French, and Spanish due to my immigration to Quebec at a young age.
+
+👨‍💻 **Coding Languages:** I use HTML with Tailwind CSS and JavaScript with React.
+
+📚 **My Learning Journey:**
+
+- I learned HTML and JavaScript through various tutorials. One of my favorites is "30 days of Javascript/HTML" by Asabeneh.
+- For Tailwind and React, I watched YouTube tutorials by Fireship.
+- I learned video editing by watching The Davinci Resolve Training Videos and then creating videos on my own.
+
+🌟 **What Motivated Me:** When Windows broke on my machine, I installed Linux and joined many communities around it. Seeing members coding motivated me to learn coding myself.
+
+## The End
+
+That's pretty much it! Thanks for taking the time to learn more about me! Feel free to connect and say hello.
+
 <p align="left">
 <a href="https://twitter.com/theonekingboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theonekingboo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@theonekingboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theonekingboo" height="30" width="40" /></a>

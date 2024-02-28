@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Juan</h1>
 <h3 align="center">also known as TheoneKingboo</h3>
-<img align="center" alt="kingboo" src="https://cdn.discordapp.com/attachments/908482825358020608/1193296630523379853/BigNormalKingboo.png?ex=65ac3317&is=6599be17&hm=08e737230980e49323d0243bcfb325c15e660acadffbdc010e677f0146dd1531&">
+<img align="center" alt="kingboo" src="/BigNormalKingboo.png">
 
 ## About Me
 

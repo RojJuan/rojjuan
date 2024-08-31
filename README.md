@@ -6,13 +6,13 @@
 
 🌎 **Where I live:** I am a Colombian immigrant now residing in Canada.
 
-💻 **What I do:** I create engaging content for YouTube, Twitch, and TikTok within the realm of Geometry Dash.
+💻 **What I do:** I create content, produce music and code
 
 🎯 **My Interests:** Programming, music, computers, video editing, and Linux.
 
 🗣️ **Spoken Languages:** English, French, and Spanish due to my immigration to Quebec at a young age.
 
-👨‍💻 **Coding Languages:** I use HTML with Tailwind CSS and JavaScript with React.
+👨‍💻 **Coding Languages:** I use HTML with Tailwind CSS and JavaScript/Typescript with React.
 
 📚 **My Learning Journey:**
 

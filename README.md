@@ -23,7 +23,5 @@ That's pretty much it! Thanks for taking the time to learn more about me! Feel f
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theonekingboo&show_icons=true&locale=en" alt="theonekingboo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonekingboo&" alt="theonekingboo" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theonekingboo&show_icons=true&locale=en&layout=compact" alt="theonekingboo" /></p>
 

@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Juan</h1>
-<img align="center" alt="kingboo" src="/BigNormalKingboo.png">
 
 ## About Me
 

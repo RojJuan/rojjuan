@@ -4,17 +4,17 @@ When Windows broke on my machine, I installed Linux and joined many communities 
 
 ## About Me
 
-💽 **What i use** I've been using Linux alongside Windows for about 2 years
+💽 **What i use** : I've been using Linux alongside Windows for about 2 years
 
-🖥️ **What I'm learning** I'm learning Golang and python at the moment
+🖥️ **What I'm learning** : I'm learning Golang and python at the moment
 
-🌎 **Where I live:** I am a Colombian immigrant now residing in Canada.
+🌎 **Where I live:** : I am a Colombian immigrant now residing in Canada.
 
-💻 **What I do:** I edit videos, produce music and code
+💻 **What I do:** : I edit videos, produce music and code
 
-🎯 **My Interests:** Programming, music, computers, video editing, and Linux.
+🎯 **My Interests:** : Programming, music, computers, video editing, and Linux.
 
-🗣️ **Spoken Languages:** English, French, and Spanish due to my immigration to Quebec at a young age.
+🗣️ **Spoken Languages:** : English, French, and Spanish due to my immigration to Quebec at a young age.
 
 
 ## The End
